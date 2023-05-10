@@ -1,0 +1,5 @@
+rootProject.name = 'Gradle-Multimodules'
+include 'module-core'
+include 'module-api'
+include 'module-batch'
+
