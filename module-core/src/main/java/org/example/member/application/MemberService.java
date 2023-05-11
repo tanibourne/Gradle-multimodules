@@ -22,4 +22,5 @@ public class MemberService {
     public Member findAnyMember(){
         return memberRepository.findById(1L).get();
     }
+    //
 }
